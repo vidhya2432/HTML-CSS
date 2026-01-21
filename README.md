@@ -12,5 +12,3 @@ The project focuses on creating a clean user interface, structured layout, and b
 - **VS Code** – Code editor  
 
 ---
-
-## 📂 Project Structure
